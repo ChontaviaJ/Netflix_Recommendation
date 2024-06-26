@@ -9,7 +9,8 @@ The recommendation system of Netflix predicts a personalised catalogue for you b
 
 <h2>Languages Used</h2>
 
-- <b>Python</b> 
+- <b>Python
+- Jupyter Notebook</b> 
 
 <h2>Environments Used </h2>
 
