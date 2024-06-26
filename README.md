@@ -1,6 +1,6 @@
 <h1>Active Directory Lab for Netflix</h1>
 
- ### [Netflix Recommendations]
+ ### Netflix Recommendations
 
 <h2>Description</h2>
 The recommendation system of Netflix predicts a personalised catalogue for you based on factors like your viewing history, the viewing history of other users with similar tastes and preferences, and the genres, category, descriptions, and more information of the content you watched.
